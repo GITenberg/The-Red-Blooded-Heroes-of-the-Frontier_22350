@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25280'
     url: http://www.gutenberg.org/2009/agents/25280
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22350#The-Red-Blooded-Heroes-of-the-Frontier
 gutenberg_issued: '2007-08-17'
 gutenberg_type: Text
 identifiers:
