@@ -1,0 +1,32 @@
+_repo: The-Red-Blooded-Heroes-of-the-Frontier_22350
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bronson, Edgar Beecher
+    birthdate: 1856
+    deathdate: 1917
+    gutenberg_agent_id: '25280'
+    url: http://www.gutenberg.org/2009/agents/25280
+description: ''
+gutenberg_issued: '2007-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22350'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West (U.S.) -- Social life and customs'
+- !lcc 'PS'
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+tableOfContents: Loving's bend -- A cow-hunters' court -- A self-constituted executioner
+  -- Triggerfingeritis -- A juggler with death -- An aerial bivouac -- The evolution
+  of a train robber -- Circus day at Mancos -- Across the border -- The three-legged
+  doe and the blind buck -- The Lemon County hunt -- El Tigre -- Bunkered -- They
+  who must be obeyed -- Djama Aout's heroism -- A modern Coeur-de-lion.
+title: The Red-Blooded Heroes of the Frontier
+url: http://www.gutenberg.org/ebooks/22350
